@@ -8,6 +8,8 @@ A chrome extension that helps users easily organize and manage a list of tasks
 
 
 ## User interface
+![image](https://user-images.githubusercontent.com/64290148/130884472-62c82b93-727d-48b9-99ef-751bec475bbd.png)
+
 
 
 
